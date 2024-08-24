@@ -1,5 +1,3 @@
-بالطبع! إليك نسخة محسّنة وأكثر احترافية من ملف README:
-
 ---
 
 # Credit Card Fraud Detection Project
